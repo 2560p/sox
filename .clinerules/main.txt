@@ -1,0 +1,1 @@
+use bun. like, for everything, `bun i`, `bun pm`, `bun -bun run`, etc
